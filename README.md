@@ -1,27 +1,27 @@
-# 2CNNSeqDem - программы для предсказания и интерпретации (исследования значимости признаков, событий) по демографическим данным:
+# 2CNNSeqDem - programs for prediction and interpretation (research of the significance of features, events) according to demographic data:
 
 
-RNN for gender prediction - предсказание пола с помощью рекуррентной нейросети
+RNN for Gender prediction
  
-RNN for next event prediction - предсказание следующего события с помощью рекуррентной нейросети
+RNN for next event prediction
  
-СNN for gender prediction - предсказание пола с помощью сверточной нейросети
+СNN for Gender prediction
  
-СNN for next event prediction - предсказание следующего события с помощью сверточной нейросети
+СNN for next event prediction
 
-RNN by Keras for sequences with SHAP (gender) - исследование значимости событий в последовательностях при предсказании пола с помощью рекуррентной нейросети и библиотеки программ SHAP
+RNN by Keras for sequences with SHAP (gender) - study of the significance of events in sequences in Gender prediction using a recurrent neural network and the SHAP program library
 
-RNN by Keras for sequences with SHAP (education) - исследование значимости событий в последовательностях при предсказании образования с помощью рекуррентной нейросети и библиотеки программ SHAP
+RNN by Keras for sequences with SHAP (education) - study of the significance of events in sequences in predicting Education using a recurrent neural network and the SHAP program library
 
-SVM kernel CP ACS LCS - предсказание пола с помощью специальных ядер встраиваемых в SVM (CP - Common Prefix, ACS - All Common Sequences, LCS - Longest Common Sequence)
+SVM kernel CP ACS LCS - Gender prediction using special kernels embedded in SVM (CP - Common Prefix, ACS - All Common Sequences, LCS - Longest Common Sequence)
 
-SVM_SHAP_Gender - исследование значимости признаков и пар событий в последовательности при предсказании пола с помощью SVM и библиотеки программ SHAP
+SVM_SHAP_Gender - study of the significance of features and pairs of events in a sequence in Gender prediction using SVM and the SHAP software library
 
-SVM_SHAP_Generation - исследование значимости признаков и пар событий в последовательности при предсказании поколения с помощью SVM и библиотеки программ SHAP
+SVM_SHAP_Generation - study of the significance of features and pairs of events in a sequence when predicting a Generation using SVM and the SHAP software library
 
-SVM_SHAP_Education - исследование значимости признаков и пар событий в последовательности при предсказании образования с помощью SVM и библиотеки программ SHAP
+SVM_SHAP_Education - study of the significance of features and pairs of events in a sequence in predicting Education using SVM and the SHAP software library
 
-SVM_SHAP_Locality - исследование значимости признаков и пар событий в последовательности при предсказании места (City, Town, Village) с помощью SVM и библиотеки программ SHAP
+SVM_SHAP_Locality - study of the significance of features and pairs of events in a sequence when predicting a location (City, Town, Village) using SVM and the SHAP program library
 
-XGBoost_CatBoost-Accuracy_SHAP_for_Features_and_Statuses - предсказание признаков по другим признакам и статусам; оценка влияния признаков и статусов
+XGBoost_CatBoost-Accuracy_SHAP_for_Features_and_Statuses - predicting features based on other features and statuses; evaluation of the impact of features and statuses
 
