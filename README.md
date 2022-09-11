@@ -23,5 +23,5 @@ SVM_SHAP_Education - study of the significance of features and pairs of events i
 
 SVM_SHAP_Locality - study of the significance of features and pairs of events in a sequence when predicting a location (City, Town, Village) using SVM and the SHAP program library
 
-XGBoost_CatBoost-Accuracy_SHAP_for_Features_and_Statuses - predicting features based on other features and statuses; evaluation of the impact of features and statuses
+XGBoost_SHAP_Demography - predicting features based on other features and statuses; evaluation of the impact of features and statuses
 
